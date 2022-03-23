@@ -1,6 +1,8 @@
 ---
 title: Examples
 layout.aside: true
-navigation.exclusive: true
-navigation.redirect: /examples/hello-world
+navigation:
+  exclusive: true
+  collapse: true
+  redirect: /examples/components/with-components
 ---

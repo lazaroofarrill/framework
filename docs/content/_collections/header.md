@@ -11,7 +11,7 @@ links:
     to: '/references/essentials/components'
   -
     title: 'Examples'
-    to: '/examples/hello-world'
+    to: '/examples/components/with-components'
   -
     title: 'Community'
     to: '/community/getting-help'
