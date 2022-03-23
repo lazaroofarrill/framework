@@ -4,11 +4,14 @@ links:
     title: 'Getting Started'
     to: '/getting-started/introduction'
   -
-    title: 'Concepts'
-    to: '/concepts/introduction'
+    title: 'Guides'
+    to: '/guides/concepts/introduction'
   -
-    title: 'Docs'
-    to: '/docs/usage/data-fetching'
+    title: 'References'
+    to: '/references/essentials/components'
+  -
+    title: 'Examples'
+    to: '/'
   -
     title: 'Community'
     to: '/community/getting-help'
