@@ -13,6 +13,6 @@ links:
     title: 'Examples'
     to: '/examples/components/with-components'
   -
-    title: 'Community'
-    to: '/community/getting-help'
+    title: 'Roadmap'
+    to: '/roadmap'
 ---
