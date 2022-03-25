@@ -1,3 +1,9 @@
+---
+template: Example
+---
+
 # With components
 
-::sandbox{repo="nuxt/framework" branch="main" dir="examples/with-components"}
+Example with components
+
+::sandbox{repo="nuxt/framework" branch="main" dir="examples/with-components" file="app.vue"}
